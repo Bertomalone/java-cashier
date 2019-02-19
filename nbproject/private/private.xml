@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/view/HOME_JFrame.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/implement/ImplemUsers.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/view/ADMIN_JFrame.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/interfaces/InterBooks.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/interfaces/InterPenjualan.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/entity/Penjualan.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/entity/Books.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/connection/MyConnection.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/view/RegisterForm.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/implement/ImplemBooks.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/implement/ImplemPenjualan.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/entity/Users.java</file>
+            <file>file:/home/bertomalone/NetBeansProjects/LoginAndRegister/src/LoginAndRegister/view/LoginForm.java</file>
+        </group>
+    </open-files>
+</project-private>
